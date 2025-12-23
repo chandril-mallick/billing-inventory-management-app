@@ -2,19 +2,19 @@
 
 A comprehensive cross-platform Flutter application for managing inventory, billing, and customer data efficiently. Built with Flutter for seamless performance across Android, iOS, Windows, macOS, Linux, and Web platforms.
 
-## ✨ Features
+##  Features
 
-- **📦 Inventory Management**: Track products, stock levels, and manage inventory efficiently
-- **🧾 Billing System**: Generate professional invoices and bills
-- **👥 Customer Management**: Maintain customer records and transaction history
-- **💾 Local Database**: SQLite integration for offline-first data storage
-- **📄 PDF Generation**: Create and export invoices as PDF documents
-- **🖨️ Printing Support**: Direct printing capabilities for invoices
-- **📊 Reports**: Generate business insights and reports
-- **🔒 Permissions Handling**: Secure file access and storage permissions
-- **🎨 Modern UI**: Clean and intuitive user interface
+- ** Inventory Management**: Track products, stock levels, and manage inventory efficiently
+- ** Billing System**: Generate professional invoices and bills
+- ** Customer Management**: Maintain customer records and transaction history
+- ** Local Database**: SQLite integration for offline-first data storage
+- ** PDF Generation**: Create and export invoices as PDF documents
+- ** Printing Support**: Direct printing capabilities for invoices
+- ** Reports**: Generate business insights and reports
+- ** Permissions Handling**: Secure file access and storage permissions
+- ** Modern UI**: Clean and intuitive user interface
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Flutter 3.5.4+
 - **Language**: Dart
@@ -23,7 +23,7 @@ A comprehensive cross-platform Flutter application for managing inventory, billi
 - **State Management**: Flutter built-in
 - **File Management**: path_provider, open_file
 
-## 📦 Dependencies
+##  Dependencies
 
 ```yaml
 dependencies:
@@ -45,7 +45,7 @@ dependencies:
   rename_app: ^1.6.1
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -85,7 +85,7 @@ dependencies:
    flutter run -d chrome
    ```
 
-## 📱 Platform Support
+##  Platform Support
 
 | Platform | Status |
 |----------|--------|
@@ -96,7 +96,7 @@ dependencies:
 | Linux    | ✅ Supported |
 | Web      | ✅ Supported |
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 billing_app/
@@ -112,7 +112,7 @@ billing_app/
 └── README.md               # Project documentation
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### App Icon
 The app uses custom launcher icons configured in `pubspec.yaml`:
@@ -131,7 +131,7 @@ To rename the application:
 flutter pub run rename_app --appname "Your App Name"
 ```
 
-## 📝 Usage
+##  Usage
 
 1. **Add Products**: Navigate to inventory section and add your products
 2. **Create Bills**: Select products, enter quantities, and generate invoices
@@ -139,20 +139,20 @@ flutter pub run rename_app --appname "Your App Name"
 4. **Generate Reports**: View sales and inventory reports
 5. **Export PDFs**: Save and share invoices as PDF documents
 
-## 🧪 Testing
+##  Testing
 
 Run tests using:
 ```bash
 flutter test
 ```
 
-## 🔒 Permissions
+##  Permissions
 
 The app requires the following permissions:
 - **Storage**: For saving invoices and reports
 - **File Access**: For PDF generation and export
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -162,22 +162,22 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
+##  Author
 
 **Chandril Mallick**
 - GitHub: [@chandril-mallick](https://github.com/chandril-mallick)
 - Repository: [billing-inventory-management-app](https://github.com/chandril-mallick/billing-inventory-management-app)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Flutter team for the amazing framework
 - All contributors and supporters of this project
 
-## 📞 Support
+##  Support
 
 For support, please open an issue in the GitHub repository or contact the maintainer.
 
